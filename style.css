@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    opacity: 0.5;
+    margin: 4% auto;
+    width: 38%;
+    font-size: 56px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.BA3K3OX {
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 40%;
+    height: 24vh;
+    padding: 6px;
+    margin: 0% auto;
+}
+.BA3K3OX p {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 2%;
+}
+.BA3K3OX h4 {
+    position: fixed;
+    left: 42%;
+    right: 42%;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.BA3K3OX input {
+    width: 60%;
+    outline: none;
+    padding: 8px;
+    margin: 12% 6%;
+    position: relative;
+}
+::placeholder {
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.BA3K3OX button {
+    background: none;
+    border: none;
+    outline: 0.3px solid black;
+    padding: 6px;
+}
