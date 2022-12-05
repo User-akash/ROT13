@@ -1,4 +1,4 @@
-function rot13(){
+function rot(){
     const message = document.querySelector('#myInput').value
     if(message==""){
       alert("Empty field to Encrypt.");
@@ -22,7 +22,7 @@ function rot13(){
     });
     document.querySelector('#myMessage').innerText = word
   }
-  function rot13(){
+  function rot(){
     if(document.querySelector('#myInput').value==""){
       alert("Empty field to decrypt.");
     }
